@@ -43,7 +43,7 @@ Tableau:
                                                           As On-Time Stops increases the Early-Stops increases as well
 
 
----> Analyze Transit Performance between Summer 2022 and Summer 2023:
+---> Analyze Transit Performance between Summer 2022 and Summer 2023
 
     Creating a stacked bar Chart to show punctuality of bus schedule.
 
@@ -52,7 +52,7 @@ Tableau:
     Use the Grouped data to plot the graph to find the perecentage of Bus on time performance for each route
                                                             
 
-    ![Alt text](image-1.png)
+  ![Alt text](image-1.png)
 
 Note:  The same graph can be created in Tableau for Simplifying. 
    
