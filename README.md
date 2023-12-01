@@ -56,3 +56,34 @@ Tableau:
 
 Note:  The same graph can be created in Tableau for Simplifying. 
    
+
+## Joining Data and Modelling
+
+### Route Numbers for Data
+
+(1) Daily_passenger Data : 113 Route Numbers
+
+(2) On_Time Data: 85 Route Numbers
+
+---> For further analysis and modelling for joined data we will be taking only common Route Numbers for both the files.
+
+---> We also join the Pass-ups for passangers and Pass-ups for wheelchair passengers
+
+#### We merge all the dataframes together for analysis and Modelling.
+
+Note: See https://github.com/pchaudhary12/Winnipeg-Transit-System/tree/main/python_code for source code.
+
+## Further Insights
+
+---> We are also to notice that there is a conceteration of transit demand/Boarding on some
+routes than on the others, which makes pass up more pronounced in some routes
+
+![Alt text](image-2.png)
+
+---> More pass ups occur during the winter season and we want to understand the reason why
+more passengers are left behind relates to season
+
+
+
+
+
