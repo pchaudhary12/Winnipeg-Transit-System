@@ -83,7 +83,16 @@ routes than on the others, which makes pass up more pronounced in some routes
 ---> More pass ups occur during the winter season and we want to understand the reason why
 more passengers are left behind relates to season
 
+![Alt text](image-3.png)
+
+Note: There is Sudden drop from 2020 to 2022 because of Covid-19
+
+---> Winter has the most demand for the transport system. This is why the it has the most average pass ups
+
+![Alt text](image-4.png)
 
 
+---> For Complete Dashboard Check: https://github.com/pchaudhary12/Winnipeg-Transit-System/tree/main/tableau
 
+---> With More more data can be gathered and get insights through different visaulization and also make more improvisation.
 

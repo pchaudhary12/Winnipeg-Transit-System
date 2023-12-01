@@ -1605,7 +1605,7 @@
             <zone h='94349' id='1' param='vert' removable='false' type-v2='layout-flow' w='99040' x='480' y='4966'>
               <zone fixed-size='221' h='18921' id='4' is-fixed='true' paired-zone-id='5' removable='false' type-v2='flipboard-nav' w='99040' x='480' y='4966' />
               <zone h='75428' id='5' paired-zone-id='4' removable='false' type-v2='flipboard' w='99040' x='480' y='23887'>
-                <flipboard active-id='3' nav-type='caption' show-nav-arrows='true'>
+                <flipboard active-id='12' nav-type='caption' show-nav-arrows='true'>
                   <story-points>
                     <story-point caption='Introduction:' captured-sheet='Intro Sheet' id='10' />
                     <story-point caption='There is a season effect which tells reason why some bus arrive at stop late. Late stop is more obvious the winter....Why' captured-sheet='Late Stop Season' id='1' />
@@ -1716,7 +1716,7 @@
     <window class='worksheet' name='Late Stop Season'>
       <cards>
         <edge name='left'>
-          <strip size='160'>
+          <strip size='200'>
             <card type='pages' />
             <card type='filters' />
             <card type='marks' />
@@ -1734,7 +1734,7 @@
           </strip>
         </edge>
         <edge name='right'>
-          <strip size='160'>
+          <strip size='200'>
             <card pane-specification-id='1' param='[federated.0vrnqm50ygu2ry1gtdsp40n6vpxx].[none:Time Period:nk]' type='color' />
           </strip>
         </edge>
@@ -1744,7 +1744,7 @@
     <window class='worksheet' name='Pass-Ups Correlation'>
       <cards>
         <edge name='left'>
-          <strip size='160'>
+          <strip size='200'>
             <card type='pages' />
             <card type='filters' />
             <card type='marks' />
@@ -1762,7 +1762,7 @@
           </strip>
         </edge>
         <edge name='right'>
-          <strip size='160'>
+          <strip size='200'>
             <card mode='checkdropdown' param='[federated.0vrnqm50ygu2ry1gtdsp40n6vpxx].[yr:Schedule Period Name - Split 2:ok]' type='filter' values='cascading' />
           </strip>
         </edge>
@@ -1772,7 +1772,7 @@
     <window class='worksheet' name='Pass up by Route'>
       <cards>
         <edge name='left'>
-          <strip size='160'>
+          <strip size='200'>
             <card type='pages' />
             <card type='filters' />
             <card type='marks' />
@@ -1795,7 +1795,7 @@
     <window class='worksheet' name='Most affected Season'>
       <cards>
         <edge name='left'>
-          <strip size='160'>
+          <strip size='200'>
             <card type='pages' />
             <card type='filters' />
             <card type='marks' />
@@ -1813,7 +1813,7 @@
           </strip>
         </edge>
         <edge name='right'>
-          <strip size='160'>
+          <strip size='200'>
             <card pane-specification-id='0' param='[federated.0vrnqm50ygu2ry1gtdsp40n6vpxx].[none:Schedule Period Name - Split 1:nk]' type='color' />
           </strip>
         </edge>
@@ -1823,7 +1823,7 @@
     <window class='worksheet' name='Pass up vs Boarding'>
       <cards>
         <edge name='left'>
-          <strip size='160'>
+          <strip size='200'>
             <card type='pages' />
             <card type='filters' />
             <card type='marks' />
